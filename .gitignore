@@ -1,0 +1,13 @@
+*.pyc
+*.pth
+*.csv
+runs/
+dataset/
+result.txt
+test_results/
+results/
+logs/
+.DS_Store
+**/*.db
+**/*.csv
+**/data/
